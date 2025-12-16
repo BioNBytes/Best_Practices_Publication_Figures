@@ -15,3 +15,6 @@ note raster images are not vector images and cannot
 ## Adobe illustrator e.g. of figure generation
 Font size, color picker for copying format (color, line size/dash style)
 - drag drop pdf, embed, cmd A (select all), cmd opt 7 (release mask all), opt shift g (ungroup all)
+
+
+## Add a adobe template with dummy legends and figures and size of each
